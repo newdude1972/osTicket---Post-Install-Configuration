@@ -86,3 +86,40 @@ Admin Panel -> Agents -> Add New
 <p>
 <img src="https://i.imgur.com/FvQYVTV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+<p>
+Follow these steps in the ticketing system to configure Users (customers)
+Agent Panel -> Users -> Add New
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YT4Tevb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h2jpZlp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
+<p>
+Follow these steps in the ticketing system to configure Service Level Agreements (SLA)
+Admin Panel -> Manage -> SLA
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/N1ewIiy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j750wb4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<p>
+Follow these steps in the ticketing system to configure Help Topics.
+Admin Panel -> Manage -> Help Topics
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xBYWg4O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
